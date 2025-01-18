@@ -11,7 +11,8 @@ font-weight: 600;
 line-height: 29.26px;
 color:#989D9C;
 margin-right: 15px;
-cursor: pointer;}
+cursor: pointer;
+padding-block-end: 90px;}
 
 .link-header:active{
     opacity: 0.8;
@@ -21,9 +22,9 @@ font-size: 24px;
 font-weight: 600;
 color: white;
 background-color: #665AE1;
-border-radius: 20px;
-width: 145px;
-height: 37px;
+border-radius: 18px;
+width: 140px;
+height: 32px;
 cursor: pointer;
 }
 .button-header:active{
@@ -80,6 +81,10 @@ img{display: inline-block;
     height: 500px;
     margin: 67px;
     margin-top: 95px;
+  }
+  header{
+  margin-left: 20px;
+  margin-top: 5px;
   }
 
 @media screen and (max-width:900px){
